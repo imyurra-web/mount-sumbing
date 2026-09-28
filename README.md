@@ -1,6 +1,18 @@
+<div align="center">
+
+<img src="./mount-sumbing-banner.png" width="100%" alt="Mount Sumbing - Yurra Production">
+
+</div>
+
+<br>
+
+<div align="center">
+
 # 🏔️ Mount Sumbing
 
 ### Roblox Experience · Yurra Production
+
+</div>
 
 A community-driven Roblox experience focused on exploration, mountain environments, gameplay systems, and interactive community experiences.
 
